@@ -1,4 +1,4 @@
-# 🏥 RCM Analytics Dashboard: Claims + EMR + CPT Insights
+# 🏥 End To End Revenue Cycle Management Implementation : Claims + EMR + CPT Insights
 
 This project analyzes healthcare revenue cycle data using **Claims**, **EMR**, and **CPT code datasets**, applying the **Medallion Architecture** in **SQL Server** for scalable data modeling, and delivering actionable insights through an interactive **Power BI dashboard**.
 
@@ -85,7 +85,5 @@ The Power BI report includes the following key metrics and visuals:
 4. Refresh the dashboard to view updated metrics.
 
 ---
-
-## 📁 Project Structure
 
 
